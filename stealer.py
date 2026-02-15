@@ -39,4 +39,4 @@ PUBLIC IP:
 ```"""
 )
 
-exit(5)
+time.sleep(45)
